@@ -5,4 +5,6 @@
   <li>💬 Open to collaborate in a projects, feel free to message me on <a href="mailto:nyeka2101@gmail.com" target="_blank">nyeka2101@gmail.com</a>.</li>
 </ul>
 
-[![](https://visitcount.itsvg.in/api?id=nyeka&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=nyeka&label=Profile%20Views&pretty=false" />
+</a>
