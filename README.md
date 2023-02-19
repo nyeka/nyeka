@@ -10,7 +10,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nyeka&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nyeka&theme=dark&hide_border=true&layout=compact)
 
+# 🏆 Github Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=nyeka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
  <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=nyeka&label=Profile%20Views&pretty=false" />
  </a>  
