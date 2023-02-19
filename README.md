@@ -12,7 +12,9 @@
 
 # 🏆 Github Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=nyeka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ---
+<br/>
  <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=nyeka&label=Profile%20Views&pretty=false" />
  </a>  
