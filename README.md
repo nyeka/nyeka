@@ -5,7 +5,7 @@
   <li>💬 Open to collaborate in a projects, feel free to message me on <a href="mailto:nyeka2101@gmail.com" target="_blank">nyeka2101@gmail.com</a>.</li>
 </ul>
 
-![](https://github-profile-trophy.vercel.app/?username=alteregogi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nyeka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=nyeka&label=Profile%20Views&pretty=false" />
